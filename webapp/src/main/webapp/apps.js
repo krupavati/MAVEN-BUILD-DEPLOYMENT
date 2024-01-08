@@ -1,7 +1,7 @@
-var firstname = "nikhil1"
+var firstname = "krupavti k"
 
-var lastname = "karkra"
-var firstname = "nikhil"
+var lastname = "nagur"
+var firstname = "krupavati k"
 document.getElementById('demo').innerHTML = `Hey i am ${firstname} ${lastname}, My name coming from Javascript`
 
 var a = NaN;
